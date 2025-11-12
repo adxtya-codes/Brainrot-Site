@@ -117,6 +117,15 @@ const ProductImageSwiper: React.FC<ProductImageSwiperProps> = ({ images, name, e
               style={{ aspectRatio: '1/1' }}
               loading="lazy"
               onClick={enableZoom ? () => setZoomed(true) : undefined}
+              onError={(e) => {
+                console.error('Failed to load image:', img);
+                const target = e.target as HTMLImageElement;
+                target.style.display = 'block';
+                target.style.background = '#f0f0f0';
+                target.style.border = '2px dashed #ccc';
+                target.alt = `Failed to load: ${img}`;
+              }}
+              onLoad={() => console.log('Successfully loaded image:', img)}
             />
           </SwiperSlide>
         ))}

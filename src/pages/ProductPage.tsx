@@ -116,7 +116,7 @@ const ProductPage = () => {
                className={`relative overflow-hidden aspect-square product-bg-${product.name.toLowerCase().includes('white') && !product.name.toLowerCase().includes('black') ? 'dark' : product.name.toLowerCase().includes('black') && !product.name.toLowerCase().includes('white') ? 'light' : 'default'} flex items-center justify-center p-4 sm:p-8`}
              >
               <ProductImageSwiper
-                images={[product.image, product.back_side || product.backImage].filter(Boolean)}
+                images={product.images}
                 name={product.name}
               />
             </div>
