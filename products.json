@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ce7f4f3f-9217-4b1c-9f42-f32805b2d2bb",
+    "name": "LUCK 777 - Black Oversized T-Shirt",
+    "price": 799,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/luck better tee 1.png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable Fit\nDesigned to make you feel 'lucky''",
+    "back_side": "product-images/luck better tee 2.png",
+    "bio": "777 on my chest, Luck isn't found, it's worn.",
+    "real_price": 1099,
+    "category": "rot"
+  },
+  {
+    "id": "d831282f-33b6-41e8-afae-c7105af7a548",
+    "name": "Travis Utopia - White Oversized T-Shirt ",
+    "price": 799,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/TRAVIS/2 (2).png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable Fit\nDesigned to make you FLY!",
+    "back_side": "product-images/TRAVIS/JESUS IS A BLACK MAN.png",
+    "bio": "Stepping into another dimention with the Utopia Tee.",
+    "real_price": 1199,
+    "category": "volume"
+  },
+  {
+    "id": "58e9f52e-ab3c-4e6f-9942-514e8808ac62",
+    "name": "YEEZUS- Black Oversized T-Shirt",
+    "price": 799,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/kanye yeezus 1.png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable fit",
+    "back_side": "product-images/kanye yeezus 2.png",
+    "bio": "Worn by rebels, powered and approved by Yeezus.",
+    "real_price": 1099,
+    "category": "volume"
+  },
+  {
+    "id": "5d8d4eeb-d4a8-45cc-b79d-ea8ef63d75b3",
+    "name": "Jesus is what? - White Oversized T-Shirt",
+    "price": 799,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/Black Man Jesus/JESUS IS A BLACK MAN.png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable Fit\nDesigned to make you look different",
+    "back_side": "product-images/Black Man Jesus/blackman back side.png",
+    "bio": "Truth isn't always comfortable, Jesus had a tan they forgot to mention.",
+    "real_price": 1099,
+    "category": "rot"
+  },
+  {
+    "id": "63e0b7bc-d244-4416-93d4-835d20dc4f04",
+    "name": "Take My Breath - Black Oversized T-Shirt",
+    "price": 799,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/WEEKND/weeknd 1.png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable Fit\nDesigned to take breaths away",
+    "back_side": "product-images/WEEKND/weeknd 2.png",
+    "bio": "You walked in, and I forgot how to breathe.",
+    "real_price": 1199,
+    "category": "volume"
+  },
+  {
+    "id": "7252028f-9e27-4ce7-b156-1d7520ab450d",
+    "name": "Kendrick DAMN - White Oversized T-Shirt",
+    "price": 799,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/Kendrick DAMN WHITE/kendrick.png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable fit\nSets you different from others",
+    "back_side": "product-images/Kendrick DAMN WHITE/2.png",
+    "bio": "I see dead people, They ain't on my level.",
+    "real_price": 1099,
+    "category": "volume"
+  },
+  {
+    "id": "869a7bdb-0e72-443e-a6fa-91ea2d202fed",
+    "name": "JOJI - Black Oversized T- Shirt",
+    "price": 749,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/JOJI/6.png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable Fit\nMade for... well you decide\n",
+    "back_side": "product-images/JOJI/7.png",
+    "bio": "Cause no one loves me like you do.",
+    "real_price": 1099,
+    "category": "volume"
+  },
+  {
+    "id": "9d678722-2fdb-450b-bbfa-81df1e5fbedf",
+    "name": "XO TILL WE- White Oversized T-Shirt ",
+    "price": 759,
+    "sizes": "S,M,L,XL",
+    "image": "product-images/XO TILL WE/11.png",
+    "description": "100% Combed Cotton\n210 GSM Bio Washed Fabric\nHigh Quality Print\nComfortable Fit\nDesigned to go XO",
+    "back_side": "product-images/XO TILL WE/12.png",
+    "bio": "Drenched in XO< hign on vibes, no coming down.",
+    "real_price": 1099,
+    "category": "rot"
+  }
+]
